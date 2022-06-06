@@ -1,0 +1,12 @@
+h1{
+   color: rgb(255, 255, 255);
+}
+
+.login_div1
+	{
+		background: rgba(2, 66, 126, 0);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        color: white;
+	}
